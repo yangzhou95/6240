@@ -1,0 +1,6 @@
+Beef,Cheese,na,na,na
+Cheese,Boots,na,na,na
+Beef,Chicken,Cheese,na,na
+Beef,Chicken,Clothes,Cheese,Milk
+Chicken,Clothes,Milk,na,na
+Chicken,Milk,Clothes,na,na
